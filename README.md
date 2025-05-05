@@ -12,7 +12,8 @@ conda create -n jax python=3.11
 conda activate jax
 
 # Install Jax
-pip install jax
+pip install --upgrade pip
+pip install --upgrade jax
 ```
 
 ## Reference
